@@ -1,5 +1,6 @@
 {
   "name": "vite-react-cicd",
+  "homepage": "https://coreandrum.com",
   "private": true,
   "version": "0.0.0",
   "type": "module",
